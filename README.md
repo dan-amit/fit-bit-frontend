@@ -69,10 +69,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312519/Logo/Screenshot_564_p8pp9g.png
+![UML Diagram](https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312519/Logo/Screenshot_564_p8pp9g.png)
 
-https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312515/Logo/Screenshot_565_mqap2x.png
+![UML Diagram](https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312515/Logo/Screenshot_565_mqap2x.png)
 
+![UML Diagram](https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312505/Logo/Screenshot_566_swpaaa.png)
+![UML Diagram](https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312498/Logo/Screenshot_567_kdz76c.png)
+![UML Diagram](https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312491/Logo/Screenshot_568_agvjo5.png)
+![UML Diagram](https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312485/Logo/Screenshot_569_qf90na.png)
+![UML Diagram](https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312479/Logo/Screenshot_570_wep5jb.png)
+![UML Diagram](https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312476/Logo/Screenshot_571_bu2pzf.png)
+![UML Diagram](https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312436/Logo/Screenshot_580_svls3s.png)
+![UML Diagram](https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312438/Logo/Screenshot_578_sn8gm3.png)
+![UML Diagram](https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312454/Logo/Screenshot_577_cvicmt.png)
+![UML Diagram](https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312457/Logo/Screenshot_576_luofnr.png)
 
-https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312505/Logo/Screenshot_566_swpaaa.png
-
+![UML Diagram](https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312463/Logo/Screenshot_574_phmyar.png)
+![UML Diagram](https://res.cloudinary.com/dnd5dhyzv/image/upload/v1648312472/Logo/Screenshot_572_cyytik.png)
